@@ -1,0 +1,52 @@
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassFunciones.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassFunciones.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassBT.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassDato.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\MySql.Data.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassBT.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\bin\Debug\ClassDato.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\obj\Debug\ClassFunciones.csprojResolveAssemblyReference.cache
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\obj\Debug\ClassFunciones.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassFunciones\obj\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csprojAssemblyReference.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csproj.CopyComplete
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassFunciones.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassBT.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\bin\Debug\ClassDato.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csprojAssemblyReference.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csproj.CoreCompileInputs.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csproj.CopyComplete
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.pdb

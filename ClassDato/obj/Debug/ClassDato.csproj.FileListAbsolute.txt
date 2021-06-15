@@ -1,0 +1,42 @@
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\bin\Debug\ClassDato.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\bin\Debug\ClassDato.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\bin\Debug\ClassBT.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\bin\Debug\MySql.Data.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\bin\Debug\ClassBT.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\obj\Debug\ClassDato.csprojResolveAssemblyReference.cache
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\obj\Debug\ClassDato.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassDato\obj\Debug\ClassDato.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csprojAssemblyReference.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csproj.CopyComplete
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassDato.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\bin\Debug\ClassBT.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csprojAssemblyReference.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csproj.CoreCompileInputs.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.csproj.CopyComplete
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassDato\obj\Debug\ClassDato.pdb

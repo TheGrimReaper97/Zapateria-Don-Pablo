@@ -1,0 +1,27 @@
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassBT\bin\Debug\ClassBT.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassBT\bin\Debug\ClassBT.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassBT\obj\Debug\ClassBT.csprojResolveAssemblyReference.cache
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassBT\obj\Debug\ClassBT.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\ClassBT\obj\Debug\ClassBT.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csprojAssemblyReference.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\bin\Debug\ClassBT.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csprojAssemblyReference.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.csproj.CoreCompileInputs.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassBT\obj\Debug\ClassBT.pdb

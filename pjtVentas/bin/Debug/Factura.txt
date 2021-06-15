@@ -1,0 +1,41 @@
+               MisofMava 
+
+   **********************************
+
+Dirc: xxxx
+Tel:xxxx 
+Rnc: xxxx
+
+            Factura de Venta
+
+No Fac:1
+Fecha:14/6/2021 Hora:10:52
+Le Atendio: xxxx
+
+----------------------------------------
+Articulo       Cant   P.Unit    Valor
+----------------------------------------
+Vaso              1         5          5
+----------------------------------------
+Sub-Total                             0$
+
+Menos Descuento                       0$
+
+Mas ITBIS                             0$
+
+ 
+Total                                 5$
+
+ 
+Efectivo Entregado:                  10$
+
+Efectivo Devuelto:                    5$
+
+ 
+   **********************************
+
+   *     Gracias por preferirnos    *
+
+   **********************************
+
+ 

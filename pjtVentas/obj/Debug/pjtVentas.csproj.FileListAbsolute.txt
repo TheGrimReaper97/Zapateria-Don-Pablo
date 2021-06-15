@@ -1,0 +1,193 @@
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\pjtVentas.exe.config
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\pjtVentas.exe
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\pjtVentas.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.csprojResolveAssemblyReference.cache
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Form1.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Formulario.frmAyuda.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.Cache
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.exe
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassBT.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassFunciones.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassDato.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\MySql.Data.dll
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassBT.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassFunciones.pdb
+c:\users\roland\documents\visual studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\ClassDato.pdb
+\\DESKTOP-TA3JFIN\Users\Roland\Documents\Visual Studio 2015\Projects\pjtVentas\pjtVentas\bin\Debug\pjtVentas.exe.config
+\\DESKTOP-TA3JFIN\Users\Roland\Documents\Visual Studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.exe
+\\DESKTOP-TA3JFIN\Users\Roland\Documents\Visual Studio 2015\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.pdb
+D:\Backup de projectos\Projects\pjtVentas\pjtVentas\bin\Debug\pjtVentas.exe.config
+D:\Backup de projectos\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.exe
+D:\Backup de projectos\Projects\pjtVentas\pjtVentas\obj\Debug\pjtVentas.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe.config
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Form1.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmAyuda.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+C:\Users\Rolando\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.Cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe.config
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\MySql.Data.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.pdb
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csprojResolveAssemblyReference.cache
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Form1.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmAyuda.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+C:\Users\Rolando\Documents\Visual Studio 2015\Projects\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.Cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csprojAssemblyReference.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Filtro.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Principal.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Principal.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmAyuda.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe.licenses
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe.config
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.dll
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.pdb
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CopyComplete
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe
+C:\Users\JEINER\Desktop\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Filtro.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Principal.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe.licenses
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CoreCompileInputs.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe.config
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CopyComplete
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csprojAssemblyReference.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe.config
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.exe
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\pjtVentas.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.dll
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassBT.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassFunciones.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\bin\Debug\ClassDato.pdb
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csprojAssemblyReference.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Filtro.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Frm_Principal.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmConsultar.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmHerramientas.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmNuevoProducto.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Formulario.frmVender.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.Properties.Resources.resources
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.GenerateResource.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe.licenses
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CoreCompileInputs.cache
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.csproj.CopyComplete
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.exe
+D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\pjtVentas\obj\Debug\pjtVentas.pdb
