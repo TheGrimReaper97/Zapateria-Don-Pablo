@@ -219,3 +219,6 @@ D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.csproj.CoreCompile
 D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.csproj.CopyComplete
 D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.exe
 D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.pdb
+D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.Frm_Log.resources
+D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.AdminMessage.resources
+D:\UDB-INFO\Zapateria-Don-Pablo\pjtVentas\obj\Debug\pjtVentas.UserMessage.resources

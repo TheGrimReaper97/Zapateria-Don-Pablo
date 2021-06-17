@@ -241,7 +241,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.DodgerBlue;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(161)))), ((int)(((byte)(127)))));
             this.panel1.Controls.Add(this.btn_Salir);
             this.panel1.Controls.Add(this.cmbInstalledPrinters);
             this.panel1.Controls.Add(this.label8);
@@ -429,7 +429,7 @@
             // btnven
             // 
             this.btnven.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btnven.BackgroundStyle.SolidColor = System.Drawing.Color.DodgerBlue;
+            this.btnven.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(161)))), ((int)(((byte)(127)))));
             this.btnven.BorderStyle.BorderShape.BottomLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
             this.btnven.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
             this.btnven.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
@@ -508,7 +508,7 @@
             // btn_agregarcarrito
             // 
             this.btn_agregarcarrito.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btn_agregarcarrito.BackgroundStyle.SolidColor = System.Drawing.Color.YellowGreen;
+            this.btn_agregarcarrito.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(161)))), ((int)(((byte)(127)))));
             this.btn_agregarcarrito.BorderStyle.SolidColor = System.Drawing.Color.YellowGreen;
             this.btn_agregarcarrito.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_agregarcarrito.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;

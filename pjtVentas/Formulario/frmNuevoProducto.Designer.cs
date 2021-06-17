@@ -47,7 +47,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.DodgerBlue;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(161)))), ((int)(((byte)(127)))));
             this.panel1.Controls.Add(this.btn_Salir);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -89,9 +89,9 @@
             this.label2.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(24, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(229, 23);
+            this.label2.Size = new System.Drawing.Size(292, 23);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Nombre del Producto:";
+            this.label2.Text = "Nombre de Estilo de Zapato:";
             // 
             // label3
             // 
@@ -158,7 +158,7 @@
             // btnregis
             // 
             this.btnregis.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btnregis.BackgroundStyle.SolidColor = System.Drawing.Color.DodgerBlue;
+            this.btnregis.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(161)))), ((int)(((byte)(127)))));
             this.btnregis.BorderStyle.BorderShape.BottomLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
             this.btnregis.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
             this.btnregis.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
