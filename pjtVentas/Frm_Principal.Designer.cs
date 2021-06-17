@@ -43,11 +43,17 @@
             this.label2 = new System.Windows.Forms.Label();
             this.bt_consul = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnVender)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bt_produc)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bt_consul)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // bunifuElipse1
@@ -65,6 +71,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel1.Controls.Add(this.pictureBox3);
             this.panel1.Controls.Add(this.btn_mini);
             this.panel1.Controls.Add(this.btn_Salir);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -114,57 +121,42 @@
             // 
             // btnVender
             // 
-            this.btnVender.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btnVender.BackgroundStyle.SolidColor = System.Drawing.Color.White;
-            this.btnVender.BorderStyle.BorderShape.BottomLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.btnVender.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.btnVender.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.btnVender.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.btnVender.BorderStyle.EdgeRadius = 20;
-            this.btnVender.BorderStyle.SolidColor = System.Drawing.Color.Gray;
+            this.btnVender.BorderStyle.EdgeRadius = 7;
+            this.btnVender.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
             this.btnVender.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnVender.DropDownArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(66)))), ((int)(((byte)(139)))));
             this.btnVender.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.btnVender.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
             this.btnVender.ForegroundImageStyle.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image2")));
             this.btnVender.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnVender.Location = new System.Drawing.Point(457, 274);
+            this.btnVender.Location = new System.Drawing.Point(527, 107);
             this.btnVender.Name = "btnVender";
-            this.btnVender.Size = new System.Drawing.Size(139, 139);
-            this.btnVender.StateStyles.HoverStyle.BackgroundGradientEndColor = System.Drawing.Color.Transparent;
-            this.btnVender.StateStyles.HoverStyle.BackgroundGradientStartColor = System.Drawing.Color.Transparent;
-            this.btnVender.StateStyles.HoverStyle.BackgroundSolidColor = System.Drawing.Color.Transparent;
-            this.btnVender.StateStyles.HoverStyle.BorderGradientEndColor = System.Drawing.Color.Transparent;
-            this.btnVender.StateStyles.HoverStyle.BorderGradientStartColor = System.Drawing.Color.Transparent;
-            this.btnVender.StateStyles.HoverStyle.BorderSolidColor = System.Drawing.Color.DodgerBlue;
-            this.btnVender.StateStyles.HoverStyle.TextFont = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVender.StateStyles.HoverStyle.TextForeColor = System.Drawing.Color.White;
+            this.btnVender.Size = new System.Drawing.Size(148, 155);
             this.btnVender.TabIndex = 51;
-            this.btnVender.TextStyle.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVender.TextStyle.ForeColor = System.Drawing.Color.DimGray;
+            this.btnVender.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(66)))), ((int)(((byte)(139)))));
             this.btnVender.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnVender.TextStyle.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.btnVender.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
             this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(438, 416);
+            this.label4.Location = new System.Drawing.Point(522, 265);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(179, 25);
+            this.label4.Size = new System.Drawing.Size(157, 25);
             this.label4.TabIndex = 57;
-            this.label4.Text = "Carrito de Ventas";
+            this.label4.Text = "Toma de orden";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(531, 209);
+            this.label1.Location = new System.Drawing.Point(751, 265);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(302, 25);
+            this.label1.Size = new System.Drawing.Size(188, 25);
             this.label1.TabIndex = 59;
-            this.label1.Text = "Registro de estilos de zapatos";
+            this.label1.Text = "Estilos de zapatos";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // bt_produc
             // 
@@ -177,9 +169,9 @@
             this.bt_produc.ForegroundImageStyle.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image1")));
             this.bt_produc.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.bt_produc.ForegroundImageStyle.ImageSize = new System.Drawing.Size(100, 100);
-            this.bt_produc.Location = new System.Drawing.Point(623, 87);
+            this.bt_produc.Location = new System.Drawing.Point(770, 107);
             this.bt_produc.Name = "bt_produc";
-            this.bt_produc.Size = new System.Drawing.Size(121, 119);
+            this.bt_produc.Size = new System.Drawing.Size(148, 155);
             this.bt_produc.TabIndex = 58;
             this.bt_produc.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(66)))), ((int)(((byte)(139)))));
             this.bt_produc.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -189,7 +181,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(762, 416);
+            this.label2.Location = new System.Drawing.Point(794, 451);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(108, 25);
             this.label2.TabIndex = 61;
@@ -197,39 +189,20 @@
             // 
             // bt_consul
             // 
-            this.bt_consul.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.bt_consul.BackgroundStyle.SolidColor = System.Drawing.Color.White;
-            this.bt_consul.BorderStyle.BorderShape.BottomLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.bt_consul.BorderStyle.BorderShape.BottomRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.bt_consul.BorderStyle.BorderShape.TopLeft = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.bt_consul.BorderStyle.BorderShape.TopRight = Klik.Windows.Forms.v1.Common.BorderShapes.Circle;
-            this.bt_consul.BorderStyle.EdgeRadius = 20;
-            this.bt_consul.BorderStyle.SolidColor = System.Drawing.Color.Gray;
+            this.bt_consul.BorderStyle.EdgeRadius = 7;
+            this.bt_consul.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
             this.bt_consul.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.bt_consul.DropDownArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(66)))), ((int)(((byte)(139)))));
             this.bt_consul.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.bt_consul.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
             this.bt_consul.ForegroundImageStyle.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image")));
             this.bt_consul.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.bt_consul.Location = new System.Drawing.Point(745, 258);
+            this.bt_consul.Location = new System.Drawing.Point(770, 293);
             this.bt_consul.Name = "bt_consul";
             this.bt_consul.Size = new System.Drawing.Size(148, 155);
-            this.bt_consul.StateStyles.DisabledStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.bt_consul.StateStyles.FocusStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.bt_consul.StateStyles.HoverStyle.BackgroundGradientEndColor = System.Drawing.Color.Transparent;
-            this.bt_consul.StateStyles.HoverStyle.BackgroundGradientStartColor = System.Drawing.Color.Transparent;
-            this.bt_consul.StateStyles.HoverStyle.BackgroundSolidColor = System.Drawing.Color.Transparent;
-            this.bt_consul.StateStyles.HoverStyle.BorderGradientEndColor = System.Drawing.Color.Transparent;
-            this.bt_consul.StateStyles.HoverStyle.BorderGradientStartColor = System.Drawing.Color.Transparent;
-            this.bt_consul.StateStyles.HoverStyle.BorderSolidColor = System.Drawing.Color.DodgerBlue;
-            this.bt_consul.StateStyles.HoverStyle.TextFont = new System.Drawing.Font("Century Gothic", 14.25F);
-            this.bt_consul.StateStyles.HoverStyle.TextForeColor = System.Drawing.Color.White;
-            this.bt_consul.StateStyles.PressedStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.bt_consul.TabIndex = 60;
-            this.bt_consul.TextStyle.Font = new System.Drawing.Font("Century Gothic", 11.25F);
-            this.bt_consul.TextStyle.ForeColor = System.Drawing.Color.DimGray;
+            this.bt_consul.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(21)))), ((int)(((byte)(66)))), ((int)(((byte)(139)))));
             this.bt_consul.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.bt_consul.TextStyle.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.bt_consul.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
             this.bt_consul.Click += new System.EventHandler(this.bt_consul_Click);
             // 
             // pictureBox1
@@ -242,12 +215,45 @@
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(57, 97);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(324, 215);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 63;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.UseWaitCursor = true;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(12, 3);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(67, 44);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 64;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(57, 318);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(324, 157);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 64;
+            this.pictureBox4.TabStop = false;
+            // 
             // Frm_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(969, 543);
+            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.bt_consul);
             this.Controls.Add(this.label1);
@@ -267,6 +273,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.bt_produc)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bt_consul)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -287,5 +296,8 @@
         private System.Windows.Forms.Label label2;
         private Klik.Windows.Forms.v1.EntryLib.ELButton bt_consul;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBox4;
     }
 }
