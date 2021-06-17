@@ -36,9 +36,10 @@
             // lblmensajeAdmin
             // 
             this.lblmensajeAdmin.AutoSize = true;
-            this.lblmensajeAdmin.Location = new System.Drawing.Point(134, 67);
+            this.lblmensajeAdmin.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lblmensajeAdmin.Location = new System.Drawing.Point(97, 108);
             this.lblmensajeAdmin.Name = "lblmensajeAdmin";
-            this.lblmensajeAdmin.Size = new System.Drawing.Size(19, 13);
+            this.lblmensajeAdmin.Size = new System.Drawing.Size(35, 33);
             this.lblmensajeAdmin.TabIndex = 0;
             this.lblmensajeAdmin.Text = "....";
             this.lblmensajeAdmin.Click += new System.EventHandler(this.lblmensajeAdmin_Click);
@@ -46,17 +47,20 @@
             // lblAdmin
             // 
             this.lblAdmin.AutoSize = true;
-            this.lblAdmin.Location = new System.Drawing.Point(111, 116);
+            this.lblAdmin.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lblAdmin.Location = new System.Drawing.Point(21, 21);
             this.lblAdmin.Name = "lblAdmin";
-            this.lblAdmin.Size = new System.Drawing.Size(70, 13);
+            this.lblAdmin.Size = new System.Drawing.Size(269, 33);
             this.lblAdmin.TabIndex = 1;
-            this.lblAdmin.Text = "Administrador";
+            this.lblAdmin.Text = "Bienvenido Administrador";
+            this.lblAdmin.Click += new System.EventHandler(this.lblAdmin_Click);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(305, 77);
+            this.button1.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button1.Location = new System.Drawing.Point(270, 108);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(145, 52);
             this.button1.TabIndex = 2;
             this.button1.Text = "Continuar";
             this.button1.UseVisualStyleBackColor = true;
@@ -70,7 +74,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblAdmin);
             this.Controls.Add(this.lblmensajeAdmin);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "AdminMessage";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AdminMessage";
             this.ResumeLayout(false);
             this.PerformLayout();

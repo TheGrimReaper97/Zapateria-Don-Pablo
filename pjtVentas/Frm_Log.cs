@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Runtime.InteropServices;
 
 namespace pjtVentas
 {
@@ -21,6 +22,14 @@ namespace pjtVentas
         {
             InitializeComponent();
         }
+
+        [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.DLL", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+
+
+
 
         public void logear(string usuario, string contrasena)
         {
@@ -88,6 +97,23 @@ namespace pjtVentas
             logear(this.textBox1.Text, this.textBox2.Text);
         }
 
+        private void btn_Salir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btn_mini_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void Frm_Log_MouseDown(object sender, MouseEventArgs e)
+        {
+            {
+                ReleaseCapture();
+                SendMessage(this.Handle, 0x112, 0xf012, 0);
+            }
+        }
     }
 
 

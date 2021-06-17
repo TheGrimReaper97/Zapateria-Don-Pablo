@@ -29,5 +29,10 @@ namespace pjtVentas
             Form formulario = new Frm_Principal();
             formulario.Show();
         }
+
+        private void lblAdmin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

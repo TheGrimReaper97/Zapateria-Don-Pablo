@@ -36,26 +36,29 @@
             // lblmensaje
             // 
             this.lblmensaje.AutoSize = true;
-            this.lblmensaje.Location = new System.Drawing.Point(105, 59);
+            this.lblmensaje.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lblmensaje.Location = new System.Drawing.Point(102, 98);
             this.lblmensaje.Name = "lblmensaje";
-            this.lblmensaje.Size = new System.Drawing.Size(16, 13);
+            this.lblmensaje.Size = new System.Drawing.Size(30, 33);
             this.lblmensaje.TabIndex = 0;
             this.lblmensaje.Text = "...";
             // 
             // lbltipoUsuario
             // 
             this.lbltipoUsuario.AutoSize = true;
-            this.lbltipoUsuario.Location = new System.Drawing.Point(88, 121);
+            this.lbltipoUsuario.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lbltipoUsuario.Location = new System.Drawing.Point(26, 31);
             this.lbltipoUsuario.Name = "lbltipoUsuario";
-            this.lbltipoUsuario.Size = new System.Drawing.Size(43, 13);
+            this.lbltipoUsuario.Size = new System.Drawing.Size(199, 33);
             this.lbltipoUsuario.TabIndex = 1;
-            this.lbltipoUsuario.Text = "Usuario";
+            this.lbltipoUsuario.Text = "Bienvenido Usuario";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(305, 72);
+            this.button1.Font = new System.Drawing.Font("Segoe Print", 14.25F, System.Drawing.FontStyle.Bold);
+            this.button1.Location = new System.Drawing.Point(268, 49);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(133, 62);
             this.button1.TabIndex = 2;
             this.button1.Text = "Continuar";
             this.button1.UseVisualStyleBackColor = true;
@@ -69,7 +72,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lbltipoUsuario);
             this.Controls.Add(this.lblmensaje);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "UserMessage";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "UserMessage";
             this.Load += new System.EventHandler(this.UserMessage_Load);
             this.ResumeLayout(false);
