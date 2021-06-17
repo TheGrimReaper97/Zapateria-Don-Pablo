@@ -94,5 +94,15 @@ namespace pjtVentas
         {
             WindowState = FormWindowState.Minimized;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void elButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
