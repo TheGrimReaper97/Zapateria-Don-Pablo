@@ -30,8 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmVender));
-            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle1 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle2 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle5 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle6 = new Klik.Windows.Forms.v1.Common.PaintStyle();
             this.txtCantidad = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -58,7 +58,6 @@
             this.lblCostoApagar = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.lbldevolucion = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
@@ -68,6 +67,7 @@
             this.elLabel51 = new Klik.Windows.Forms.v1.EntryLib.ELLabel();
             this.txtIdProducto = new System.Windows.Forms.Label();
             this.btn_agregarcarrito = new Klik.Windows.Forms.v1.EntryLib.ELButton();
+            this.label12 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.elGroupBox4)).BeginInit();
@@ -143,9 +143,9 @@
             this.lblPrecio.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPrecio.Location = new System.Drawing.Point(97, 93);
             this.lblPrecio.Name = "lblPrecio";
-            this.lblPrecio.Size = new System.Drawing.Size(30, 21);
+            this.lblPrecio.Size = new System.Drawing.Size(19, 21);
             this.lblPrecio.TabIndex = 7;
-            this.lblPrecio.Text = "S/.";
+            this.lblPrecio.Text = "$";
             // 
             // btnBuscar
             // 
@@ -279,6 +279,7 @@
             this.cmbInstalledPrinters.Name = "cmbInstalledPrinters";
             this.cmbInstalledPrinters.Size = new System.Drawing.Size(250, 25);
             this.cmbInstalledPrinters.TabIndex = 2;
+            this.cmbInstalledPrinters.SelectedIndexChanged += new System.EventHandler(this.cmbInstalledPrinters_SelectedIndexChanged);
             // 
             // label9
             // 
@@ -332,9 +333,9 @@
             this.label10.ForeColor = System.Drawing.Color.Lime;
             this.label10.Location = new System.Drawing.Point(41, 50);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(41, 25);
+            this.label10.Size = new System.Drawing.Size(25, 25);
             this.label10.TabIndex = 19;
-            this.label10.Text = "S/.";
+            this.label10.Text = "$";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lbldevolucion
@@ -349,19 +350,6 @@
             this.lbldevolucion.TabIndex = 18;
             this.lbldevolucion.Text = "0";
             this.lbldevolucion.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.ForeColor = System.Drawing.Color.Yellow;
-            this.label12.Location = new System.Drawing.Point(42, 115);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(34, 23);
-            this.label12.TabIndex = 19;
-            this.label12.Text = "S/.";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label13
             // 
@@ -463,9 +451,9 @@
             this.elLabel1.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.elLabel1.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
             this.elLabel1.Cursor = System.Windows.Forms.Cursors.Default;
-            paintStyle1.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            paintStyle1.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.elLabel1.FlashStyle = paintStyle1;
+            paintStyle5.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            paintStyle5.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.elLabel1.FlashStyle = paintStyle5;
             this.elLabel1.Location = new System.Drawing.Point(37, 108);
             this.elLabel1.Name = "elLabel1";
             this.elLabel1.Size = new System.Drawing.Size(193, 35);
@@ -482,9 +470,9 @@
             this.elLabel51.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.elLabel51.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
             this.elLabel51.Cursor = System.Windows.Forms.Cursors.Default;
-            paintStyle2.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            paintStyle2.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.elLabel51.FlashStyle = paintStyle2;
+            paintStyle6.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            paintStyle6.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.elLabel51.FlashStyle = paintStyle6;
             this.elLabel51.Location = new System.Drawing.Point(37, 42);
             this.elLabel51.Name = "elLabel51";
             this.elLabel51.Size = new System.Drawing.Size(193, 35);
@@ -531,6 +519,20 @@
             this.btn_agregarcarrito.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btn_agregarcarrito.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
             this.btn_agregarcarrito.Click += new System.EventHandler(this.btn_agregarcarrito_Click);
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.Color.Yellow;
+            this.label12.Location = new System.Drawing.Point(42, 115);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(21, 23);
+            this.label12.TabIndex = 19;
+            this.label12.Text = "$";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // frmVender
             // 
@@ -597,7 +599,6 @@
         private System.Windows.Forms.Label lblCostoApagar;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label lbldevolucion;
-        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.ComboBox cmbInstalledPrinters;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse1;
@@ -609,5 +610,6 @@
         public Klik.Windows.Forms.v1.EntryLib.ELButton btnven;
         private System.Windows.Forms.Label txtIdProducto;
         public Klik.Windows.Forms.v1.EntryLib.ELButton btn_agregarcarrito;
+        private System.Windows.Forms.Label label12;
     }
 }

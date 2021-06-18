@@ -202,7 +202,7 @@ namespace pjtVentas.Formulario
 
                     ClassFunciones.clsFunciones.CreaTicket Ticket1 = new ClassFunciones.clsFunciones.CreaTicket();
 
-                    Ticket1.TextoCentro("MisofMava "); //imprime una linea de descripcion
+                    Ticket1.TextoCentro("Zapateria-Don Pablo "); //imprime una linea de descripcion
                     Ticket1.TextoCentro("**********************************");
 
                     Ticket1.TextoIzquierda("Dirc: xxxx");
@@ -227,9 +227,9 @@ namespace pjtVentas.Formulario
 
 
                     ClassFunciones.clsFunciones.CreaTicket.LineasGuion();
-                    Ticket1.AgregaTotales("Sub-Total", double.Parse("000")); // imprime linea con Subtotal
-                    Ticket1.AgregaTotales("Menos Descuento", double.Parse("000")); // imprime linea con decuento total
-                    Ticket1.AgregaTotales("Mas ITBIS", double.Parse("000")); // imprime linea con ITBis total
+                   
+                  
+                   
                     Ticket1.TextoIzquierda(" ");
                     Ticket1.AgregaTotales("Total", double.Parse(lblCostoApagar.Text)); // imprime linea con total
                     Ticket1.TextoIzquierda(" ");
@@ -294,6 +294,16 @@ namespace pjtVentas.Formulario
 
             }
             CostoApagar();
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbInstalledPrinters_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

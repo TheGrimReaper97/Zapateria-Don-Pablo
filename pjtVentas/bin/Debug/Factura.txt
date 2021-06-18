@@ -1,4 +1,4 @@
-               MisofMava 
+          Zapateria-Don Pablo 
 
    **********************************
 
@@ -8,28 +8,22 @@ Rnc: xxxx
 
             Factura de Venta
 
-No Fac:1
-Fecha:14/6/2021 Hora:10:52
+No Fac:2
+Fecha:17/6/2021 Hora:10:29
 Le Atendio: xxxx
 
 ----------------------------------------
 Articulo       Cant   P.Unit    Valor
 ----------------------------------------
-Vaso              1         5          5
+Zapatos nike      3        25         75
 ----------------------------------------
-Sub-Total                             0$
-
-Menos Descuento                       0$
-
-Mas ITBIS                             0$
+ 
+Total                                75$
 
  
-Total                                 5$
+Efectivo Entregado:                 150$
 
- 
-Efectivo Entregado:                  10$
-
-Efectivo Devuelto:                    5$
+Efectivo Devuelto:                   75$
 
  
    **********************************
