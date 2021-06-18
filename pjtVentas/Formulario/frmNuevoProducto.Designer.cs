@@ -40,6 +40,8 @@
             this.btnCancelar = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.btnregis = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnCancelar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnregis)).BeginInit();
@@ -89,9 +91,9 @@
             this.label2.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(24, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(292, 23);
+            this.label2.Size = new System.Drawing.Size(79, 23);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Nombre de Estilo de Zapato:";
+            this.label2.Text = "Cliente";
             // 
             // label3
             // 
@@ -137,7 +139,7 @@
             this.btnCancelar.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.btnCancelar.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
             this.btnCancelar.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnCancelar.Location = new System.Drawing.Point(296, 219);
+            this.btnCancelar.Location = new System.Drawing.Point(277, 300);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(184, 47);
             this.btnCancelar.StateStyles.HoverStyle.BackgroundGradientEndColor = System.Drawing.Color.WhiteSmoke;
@@ -168,7 +170,7 @@
             this.btnregis.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.btnregis.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
             this.btnregis.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnregis.Location = new System.Drawing.Point(91, 219);
+            this.btnregis.Location = new System.Drawing.Point(72, 300);
             this.btnregis.Name = "btnregis";
             this.btnregis.Size = new System.Drawing.Size(184, 47);
             this.btnregis.StateStyles.HoverStyle.BackgroundGradientEndColor = System.Drawing.Color.DodgerBlue;
@@ -193,12 +195,32 @@
             this.bunifuDragControl1.TargetControl = this.panel1;
             this.bunifuDragControl1.Vertical = true;
             // 
+            // textBox3
+            // 
+            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox3.Location = new System.Drawing.Point(28, 239);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(262, 30);
+            this.textBox3.TabIndex = 82;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Century Gothic", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(23, 211);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(123, 23);
+            this.label4.TabIndex = 81;
+            this.label4.Text = "Descripcion";
+            // 
             // frmNuevoProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(580, 324);
+            this.ClientSize = new System.Drawing.Size(580, 376);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnregis);
             this.Controls.Add(this.textBox2);
@@ -210,6 +232,7 @@
             this.Name = "frmNuevoProducto";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmNuevoProducto";
+            this.Load += new System.EventHandler(this.frmNuevoProducto_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnCancelar)).EndInit();
@@ -232,5 +255,7 @@
         public Klik.Windows.Forms.v1.EntryLib.ELButton btnCancelar;
         public Klik.Windows.Forms.v1.EntryLib.ELButton btnregis;
         private Bunifu.Framework.UI.BunifuDragControl bunifuDragControl1;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Label label4;
     }
 }

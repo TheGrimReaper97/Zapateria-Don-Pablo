@@ -50,3 +50,14 @@ D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Deb
 D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.csproj.CopyComplete
 D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.dll
 D:\Escritorio\pjtFacturaBaseDeDatos\pjtFacturaBaseDeDatos\ClassFunciones\obj\Debug\ClassFunciones.pdb
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassFunciones.dll
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassFunciones.pdb
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassBT.dll
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassDato.dll
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassBT.pdb
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\bin\Debug\ClassDato.pdb
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\obj\Debug\ClassFunciones.csprojAssemblyReference.cache
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\obj\Debug\ClassFunciones.csproj.CoreCompileInputs.cache
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\obj\Debug\ClassFunciones.csproj.CopyComplete
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\obj\Debug\ClassFunciones.dll
+D:\UDB-INFO\Zapateria-Don-Pablo\ClassFunciones\obj\Debug\ClassFunciones.pdb

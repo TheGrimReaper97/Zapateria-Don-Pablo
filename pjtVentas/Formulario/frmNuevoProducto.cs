@@ -53,5 +53,10 @@ namespace pjtVentas.Formulario
             }
         
         }
+
+        private void frmNuevoProducto_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

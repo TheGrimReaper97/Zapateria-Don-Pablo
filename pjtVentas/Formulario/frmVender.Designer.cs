@@ -30,13 +30,12 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmVender));
-            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle5 = new Klik.Windows.Forms.v1.Common.PaintStyle();
-            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle6 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle1 = new Klik.Windows.Forms.v1.Common.PaintStyle();
+            Klik.Windows.Forms.v1.Common.PaintStyle paintStyle2 = new Klik.Windows.Forms.v1.Common.PaintStyle();
             this.txtCantidad = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblPrecio = new System.Windows.Forms.Label();
             this.btnBuscar = new System.Windows.Forms.Button();
@@ -63,11 +62,11 @@
             this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.elGroupBox4 = new Klik.Windows.Forms.v1.EntryLib.ELGroupBox();
             this.btnven = new Klik.Windows.Forms.v1.EntryLib.ELButton();
+            this.label12 = new System.Windows.Forms.Label();
             this.elLabel1 = new Klik.Windows.Forms.v1.EntryLib.ELLabel();
             this.elLabel51 = new Klik.Windows.Forms.v1.EntryLib.ELLabel();
             this.txtIdProducto = new System.Windows.Forms.Label();
             this.btn_agregarcarrito = new Klik.Windows.Forms.v1.EntryLib.ELButton();
-            this.label12 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.elGroupBox4)).BeginInit();
@@ -81,9 +80,9 @@
             // txtCantidad
             // 
             this.txtCantidad.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCantidad.Location = new System.Drawing.Point(99, 116);
+            this.txtCantidad.Location = new System.Drawing.Point(955, 416);
             this.txtCantidad.Name = "txtCantidad";
-            this.txtCantidad.Size = new System.Drawing.Size(100, 28);
+            this.txtCantidad.Size = new System.Drawing.Size(10, 28);
             this.txtCantidad.TabIndex = 1;
             this.txtCantidad.Text = "1";
             // 
@@ -116,16 +115,6 @@
             this.label3.Size = new System.Drawing.Size(52, 17);
             this.label3.TabIndex = 4;
             this.label3.Text = "Precio:";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(19, 127);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(75, 17);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "Cantidad:";
             // 
             // lblNombre
             // 
@@ -445,15 +434,29 @@
             this.btnven.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
             this.btnven.Click += new System.EventHandler(this.btnven_Click);
             // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.Color.Yellow;
+            this.label12.Location = new System.Drawing.Point(42, 115);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(21, 23);
+            this.label12.TabIndex = 19;
+            this.label12.Text = "$";
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label12.Click += new System.EventHandler(this.label12_Click);
+            // 
             // elLabel1
             // 
             this.elLabel1.BackgroundStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.elLabel1.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.elLabel1.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
             this.elLabel1.Cursor = System.Windows.Forms.Cursors.Default;
-            paintStyle5.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            paintStyle5.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.elLabel1.FlashStyle = paintStyle5;
+            paintStyle1.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            paintStyle1.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.elLabel1.FlashStyle = paintStyle1;
             this.elLabel1.Location = new System.Drawing.Point(37, 108);
             this.elLabel1.Name = "elLabel1";
             this.elLabel1.Size = new System.Drawing.Size(193, 35);
@@ -470,9 +473,9 @@
             this.elLabel51.BackgroundStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.elLabel51.BorderStyle.SolidColor = System.Drawing.Color.Gainsboro;
             this.elLabel51.Cursor = System.Windows.Forms.Cursors.Default;
-            paintStyle6.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            paintStyle6.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.elLabel51.FlashStyle = paintStyle6;
+            paintStyle2.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            paintStyle2.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.elLabel51.FlashStyle = paintStyle2;
             this.elLabel51.Location = new System.Drawing.Point(37, 42);
             this.elLabel51.Name = "elLabel51";
             this.elLabel51.Size = new System.Drawing.Size(193, 35);
@@ -502,7 +505,7 @@
             this.btn_agregarcarrito.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
             this.btn_agregarcarrito.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
             this.btn_agregarcarrito.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btn_agregarcarrito.Location = new System.Drawing.Point(226, 109);
+            this.btn_agregarcarrito.Location = new System.Drawing.Point(414, 79);
             this.btn_agregarcarrito.Name = "btn_agregarcarrito";
             this.btn_agregarcarrito.Size = new System.Drawing.Size(158, 35);
             this.btn_agregarcarrito.StateStyles.HoverStyle.BackgroundGradientEndColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
@@ -520,20 +523,6 @@
             this.btn_agregarcarrito.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.Custom;
             this.btn_agregarcarrito.Click += new System.EventHandler(this.btn_agregarcarrito_Click);
             // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.ForeColor = System.Drawing.Color.Yellow;
-            this.label12.Location = new System.Drawing.Point(42, 115);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(21, 23);
-            this.label12.TabIndex = 19;
-            this.label12.Text = "$";
-            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label12.Click += new System.EventHandler(this.label12_Click);
-            // 
             // frmVender
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -549,7 +538,6 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.lblPrecio);
             this.Controls.Add(this.lblNombre);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -579,7 +567,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblPrecio;
         private System.Windows.Forms.Button btnBuscar;

@@ -151,21 +151,21 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(522, 265);
+            this.label4.Location = new System.Drawing.Point(536, 265);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(157, 25);
+            this.label4.Size = new System.Drawing.Size(125, 25);
             this.label4.TabIndex = 57;
-            this.label4.Text = "Toma de orden";
+            this.label4.Text = "Facturacion";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(751, 265);
+            this.label1.Location = new System.Drawing.Point(757, 265);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(188, 25);
+            this.label1.Size = new System.Drawing.Size(161, 25);
             this.label1.TabIndex = 59;
-            this.label1.Text = "Estilos de zapatos";
+            this.label1.Text = "Toma de Orden";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // bt_produc

@@ -47,7 +47,7 @@ namespace ClassFunciones
 
             public static string LineasGuion()
             {
-                string LineaGuion = "----------------------------------------";   // agrega lineas separadoras -
+                string LineaGuion = "----------------------------------------";   
 
                 return line.AppendLine(LineaGuion).ToString();
             }
@@ -55,18 +55,18 @@ namespace ClassFunciones
 
             public static void EncabezadoVenta()
             {
-                string LineEncavesado = "Articulo       Cant   P.Unit    Valor";   // 40 caracteres agrega lineas de  encabezados
+                string LineEncavesado = "Articulo       Cant   P.Unit    Valor";   
                 line.AppendLine(LineEncavesado);
             }
-            public void TextoIzquierda(string par1)                          // agrega texto a la izquierda
+            public void TextoIzquierda(string par1)                          
             {
                 max = par1.Length;
-                if (max > 40)                                 // **********
+                if (max > 40)                                
                 {
                     cort = max - 40;
-                    parte1 = par1.Remove(40, cort);        // si es mayor que 40 caracteres, lo corta
+                    parte1 = par1.Remove(40, cort);        
                 }
-                else { parte1 = par1; }                      // **********
+                else { parte1 = par1; }                      
                 line.AppendLine(ticket = parte1);
 
             }
@@ -74,96 +74,95 @@ namespace ClassFunciones
             {
                 ticket = "";
                 max = par1.Length;
-                if (max > 40)                                 // **********
+                if (max > 40)                                 
                 {
                     cort = max - 40;
-                    parte1 = par1.Remove(40, cort);           // si es mayor que 40 caracteres, lo corta
+                    parte1 = par1.Remove(40, cort);           
                 }
-                else { parte1 = par1; }                      // **********
-                max = 40 - par1.Length;                     // obtiene la cantidad de espacios para llegar a 40
+                else { parte1 = par1; }                     
+                max = 40 - par1.Length;                     
                 for (int i = 0; i < max; i++)
                 {
-                    ticket += " ";                          // agrega espacios para alinear a la derecha
+                    ticket += " ";                          
                 }
-                line.AppendLine(ticket += parte1 + "\n");                //Agrega el texto
+                line.AppendLine(ticket += parte1 + "\n");                
 
             }
             public void TextoCentro(string par1)
             {
                 ticket = "";
                 max = par1.Length;
-                if (max > 40)                                 // **********
+                if (max > 40)                                 
                 {
                     cort = max - 40;
-                    parte1 = par1.Remove(40, cort);          // si es mayor que 40 caracteres, lo corta
+                    parte1 = par1.Remove(40, cort);          
                 }
-                else { parte1 = par1; }                      // **********
-                max = (int)(40 - parte1.Length) / 2;         // saca la cantidad de espacios libres y divide entre dos
-                for (int i = 0; i < max; i++)                // **********
+                else { parte1 = par1; }                      
+                max = (int)(40 - parte1.Length) / 2;         
+                for (int i = 0; i < max; i++)                
                 {
-                    ticket += " ";                           // Agrega espacios antes del texto a centrar
-                }                                            // **********
+                    ticket += " ";                           
+                }                                            
                 line.AppendLine(ticket += parte1 + "\n");
 
             }
             public void TextoExtremos(string par1, string par2)
             {
                 max = par1.Length;
-                if (max > 18)                                 // **********
+                if (max > 18)                               
                 {
                     cort = max - 18;
-                    parte1 = par1.Remove(18, cort);          // si par1 es mayor que 18 lo corta
+                    parte1 = par1.Remove(18, cort);          
                 }
-                else { parte1 = par1; }                      // **********
-                ticket = parte1;                             // agrega el primer parametro
+                else { parte1 = par1; }                      
+                ticket = parte1;                             
                 max = par2.Length;
-                if (max > 18)                                 // **********
+                if (max > 18)                               
                 {
                     cort = max - 18;
-                    parte2 = par2.Remove(18, cort);          // si par2 es mayor que 18 lo corta
+                    parte2 = par2.Remove(18, cort);          
                 }
                 else { parte2 = par2; }
                 max = 40 - (parte1.Length + parte2.Length);
-                for (int i = 0; i < max; i++)                 // **********
+                for (int i = 0; i < max; i++)                 
                 {
-                    ticket += " ";                            // Agrega espacios para poner par2 al final
-                }                                             // **********
-                line.AppendLine(ticket += parte2 + "\n");                   // agrega el segundo parametro al final
+                    ticket += " ";                            
+                }                                             
+                line.AppendLine(ticket += parte2 + "\n");                   
 
             }
             public void AgregaTotales(string par1, double total)
             {
                 max = par1.Length;
-                if (max > 25)                                 // **********
+                if (max > 25)                                 
                 {
                     cort = max - 25;
-                    parte1 = par1.Remove(25, cort);          // si es mayor que 25 lo corta
+                    parte1 = par1.Remove(25, cort);          
                 }
-                else { parte1 = par1; }                      // **********
+                else { parte1 = par1; }                      
                 ticket = parte1;
                 parte2 = total.ToString()+"$";
                 max = 40 - (parte1.Length + parte2.Length);
-                for (int i = 0; i < max; i++)                // **********
+                for (int i = 0; i < max; i++)                
                 {
-                    ticket += " ";                           // Agrega espacios para poner el valor de moneda al final
-                }                                            // **********
+                    ticket += " ";                           
+                }                                          
                 line.AppendLine(ticket += parte2 + "\n");
 
             }
 
-            // se le pasan los Aticulos  con sus detalles
+            
             public void AgregaArticulo(string Articulo,  double precio, int cant, double subtotal)
             {
-                if (cant.ToString().Length <= 3 && precio.ToString("c").Length <= 10 && subtotal.ToString("c").Length <= 11) // valida que cant precio y total esten dentro de rango
+                if (cant.ToString().Length <= 3 && precio.ToString("c").Length <= 10 && subtotal.ToString("c").Length <= 11) 
                 {
                     string elementos = "", espacios = "";
                     bool bandera = false;
                     int nroEspacios = 0;
 
-                    if (Articulo.Length > 40)                                 // **********
+                    if (Articulo.Length > 40)                                 
                     {
-                        //cort = max - 16;
-                        //parte1 = Articulo.Remove(16, cort);          // corta a 16 la descripcion del articulo
+                        
                         nroEspacios = (3 - cant.ToString().Length);
                         espacios = "";
                         for (int i = 0; i < nroEspacios; i++)
@@ -172,7 +171,7 @@ namespace ClassFunciones
                         }
                         elementos += espacios + cant.ToString();
 
-                        // colocamos el precio a la derecha
+                       
                         nroEspacios = (10 - precio.ToString().Length);
                         espacios = "";
 
@@ -182,7 +181,7 @@ namespace ClassFunciones
                         }
                         elementos += espacios + precio.ToString();
 
-                        //colocar el subtotal a la dercha
+                       
                         nroEspacios = (11 - subtotal.ToString().Length);
                         espacios = "";
 
@@ -192,7 +191,7 @@ namespace ClassFunciones
                         }
                         elementos += espacios + subtotal.ToString();
 
-                        int CaracterActual = 0;// indica en que caracter se quedo
+                        int CaracterActual = 0;
                         for (int Longtext = Articulo.Length; Longtext > 16; Longtext++)
                         {
                             if (bandera == false)
@@ -227,7 +226,7 @@ namespace ClassFunciones
                         }
                         elementos += espacios + cant.ToString();
 
-                        // colocamos el precio a la derecha
+                        
                         nroEspacios = (10 - precio.ToString().Length);
                         espacios = "";
 
@@ -237,7 +236,7 @@ namespace ClassFunciones
                         }
                         elementos += espacios + precio.ToString();
 
-                        //colocar el subtotal a la dercha
+                        
                         nroEspacios = (11 - subtotal.ToString().Length);
                         espacios = "";
 
@@ -252,7 +251,7 @@ namespace ClassFunciones
                 }
                 else
                 {
-                    //  MessageBox.Show("Valores fuera de rango");
+                    
 
                 }
             }
@@ -274,11 +273,10 @@ namespace ClassFunciones
                         PrintDocument pd = new PrintDocument();
                         pd.PrintPage += new PrintPageEventHandler
                            (this.pd_PrintPage);
-                        //  pd.PrinterSettings.PrinterName = "EPSON L3110 SERIES";// Nombre de la impresora
-                        //pd.PrinterSettings.PrinterName = "Microsoft Print to PDF";// Nombre de la impresora
-                        pd.PrinterSettings.PrinterName = Impresora;// Nombre de la impresora
+                       
+                        pd.PrinterSettings.PrinterName = Impresora;
 
-                        // pd.DefaultPageSettings.PaperSize = new PaperSize("", 10, 800);
+                        
                         pd.DocumentName = "Factura" + DateTime.Now.ToString();
 
                         pd.Print();
@@ -306,11 +304,11 @@ namespace ClassFunciones
 
                
 
-                // Calculate the number of lines per page.
+               
                 linesPerPage = ev.MarginBounds.Height /
                    printFont.GetHeight(ev.Graphics);
 
-                // Print each line of the file.
+                
                 while (count < linesPerPage &&
                    ((line = streamToPrint.ReadLine()) != null))
                 {
@@ -322,7 +320,7 @@ namespace ClassFunciones
                    
                 }
 
-                // If more lines exist, print another page.
+               
                 if (line != null)
                     ev.HasMorePages = true;
                 else
